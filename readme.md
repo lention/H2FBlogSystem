@@ -12,3 +12,4 @@
 - dev branch flag
 - modified from Mac OS 
 - margin from dev
+- modify after merging
