@@ -8,4 +8,4 @@
 - 团队协助git学习
 - 在新分支dev上做了修改NEW FOR PUCH手动合并后的修改
 - 新分支dev
-- 
+- from Mac OS edit
